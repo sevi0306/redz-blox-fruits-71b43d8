@@ -2,10 +2,6 @@ local Scripts = {
 	{
 		PlacesIds = {2753915549, 4442272183, 7449423635},
 		Path = "BloxFruits.luau"
-	},
-	{
-		PlacesIds = {10260193230},
-		Path = "MemeSea.luau"
 	}
 }
 
